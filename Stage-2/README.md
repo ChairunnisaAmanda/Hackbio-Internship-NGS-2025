@@ -4,7 +4,7 @@ Name: Chairunnisa Nur Amanda
 
 Slack ID: @ChairunnisaAmanda
 
-Github Repository:
+Github Repository: https://github.com/ChairunnisaAmanda/Hackbio-Internship-NGS-2025/tree/main/Stage-2
 
 Linkedin Post: 
 
